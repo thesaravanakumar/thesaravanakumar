@@ -12,8 +12,8 @@
 </a>
 <a href="https://github.com/thesaravanakumar">
   <img align="left" width="26px" src="https://github.com/thesaravanakumar/thesaravanakumar/blob/main/github_blue.png" />
-</a>&nbsp;
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesaravanakumar&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
+</a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesaravanakumar&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesaravanakumar&theme=dark" alt="thesaravanakumar" /></p>
 
