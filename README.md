@@ -1,4 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Saravana!](https://github.com/thesaravanakumar)
+![ezgif-1-97e5585c79e8](https://user-images.githubusercontent.com/59575502/102100138-1b856e80-3e4f-11eb-86cb-3a99fbfd4a17.gif)
+
 <h3 align="left">Connect🔗</h3>
 <a href="https://www.linkedin.com/in/thesaravanakumar">
   <img align="left" width="24px" src="https://github.com/thesaravanakumar/thesaravanakumar/blob/main/linkedin.png"/>
