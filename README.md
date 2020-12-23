@@ -1,8 +1,9 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59575502/103030567-15476e80-4582-11eb-8d05-86ba56601fa4.gif)](https://github.com/thesaravanakumar)
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm 
+[![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59575502/103030567-15476e80-4582-11eb-8d05-86ba56601fa4.gif)](https://github.com/thesaravanakumar)
 
 
 
-<h3 align="left">Connect🔗</h3>
+<h3 align="left">Co🔗ect with me!</h3>
 <a href="https://www.linkedin.com/in/thesaravanakumar">
   <img align="left" width="24px" src="https://github.com/thesaravanakumar/thesaravanakumar/blob/main/linkedin.png"/>
 </a>
