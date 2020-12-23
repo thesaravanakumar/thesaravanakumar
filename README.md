@@ -1,5 +1,5 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm 
-[![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59575502/103030567-15476e80-4582-11eb-8d05-86ba56601fa4.gif)](https://github.com/thesaravanakumar)
+[![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/59575502/103031078-280e7300-4583-11eb-8f0f-70985123968e.gif)](https://github.com/thesaravanakumar)
 
 
 
