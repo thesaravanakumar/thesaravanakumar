@@ -18,7 +18,7 @@
 </a>
 
 #### Just started with OpenSource
-![ezgif-1-97e5585c79e8](https://user-images.githubusercontent.com/59575502/102100138-1b856e80-3e4f-11eb-86cb-3a99fbfd4a17.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/59575502/103031541-0a8dd900-4584-11eb-8024-fc105241fc47.gif)
 ![Saravana's github stats](https://github-readme-stats.vercel.app/api?username=thesaravanakumar&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesaravanakumar&theme=dark" alt="thesaravanakumar" /></p>
 
