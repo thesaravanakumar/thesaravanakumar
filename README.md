@@ -1,5 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm 
-![reverse](https://user-images.githubusercontent.com/59575502/103308502-95654c80-4a38-11eb-92fb-f31fb6d0f59b.gif)
+![reverse](https://user-images.githubusercontent.com/59575502/103308681-07d62c80-4a39-11eb-97e1-e2df952e9667.gif)
+
 
 
 
