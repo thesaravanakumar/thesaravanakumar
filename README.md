@@ -2,11 +2,11 @@
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59575502/104134631-ef5b0000-53b0-11eb-845c-e04e338792ae.gif)
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59575502/104134631-ef5b0000-53b0-11eb-845c-e04e338792ae.gif)
 
-
-&nbsp;* <b>Final Year CS Undergrad</b>
-&nbsp;* <b>Competitive Programmer</b>
+<b>&nbsp; 📀Final Year CS Undergrad</b><br/>
+<b>&nbsp; 📀Competitive Programmer</b>
 <h3 align="left"><b>Connect 🔌 with me!</b></h3>
 <a href="https://www.linkedin.com/in/thesaravanakumar">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
