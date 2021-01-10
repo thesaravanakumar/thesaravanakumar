@@ -3,7 +3,8 @@
 </p>
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm 
-![reverse](https://user-images.githubusercontent.com/59575502/103308681-07d62c80-4a39-11eb-97e1-e2df952e9667.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59575502/104134631-ef5b0000-53b0-11eb-845c-e04e338792ae.gif)
+
 
 * <b>Final Year CS Undergrad</b>
 * <b>Competitive Programmer</b>
