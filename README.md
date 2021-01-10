@@ -1,9 +1,10 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm 
-![reverse](https://user-images.githubusercontent.com/59575502/103308681-07d62c80-4a39-11eb-97e1-e2df952e9667.gif)
-## About me
+
 <p>
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
+
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm 
+![reverse](https://user-images.githubusercontent.com/59575502/103308681-07d62c80-4a39-11eb-97e1-e2df952e9667.gif)
 <h3 align="left"><b>Connect 🔌 with me!</b></h3>
 <a href="https://www.linkedin.com/in/thesaravanakumar">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
@@ -23,13 +24,8 @@
 <p align="left" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
 <br/>
 <br/>
-
-
-
 <img align="" height='140px' src="https://github-readme-stats.vercel.app/api?username=thesaravanakumar&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/59575502/103031541-0a8dd900-4584-11eb-8024-fc105241fc47.gif)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Love ❤ To ⚡ connect🔌</b></em>
 
 ---
