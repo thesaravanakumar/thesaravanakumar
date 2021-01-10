@@ -20,13 +20,18 @@
 <a href="mailto:saravana.k.manimaran@gmail.com">
     <img align="left" alt="Saravana Kumar | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-
+<p align="left" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
 <br/>
 <br/>
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/59575502/103031541-0a8dd900-4584-11eb-8024-fc105241fc47.gif)
-![Saravana's github stats](https://github-readme-stats.vercel.app/api?username=thesaravanakumar&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+<img align="" height='140px' src="https://github-readme-stats.vercel.app/api?username=thesaravanakumar&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesaravanakumar&theme=dark" alt="thesaravanakumar" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Love ❤ To ⚡ connect🔌</b></em>
+
+---
