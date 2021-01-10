@@ -5,6 +5,8 @@
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm 
 ![reverse](https://user-images.githubusercontent.com/59575502/103308681-07d62c80-4a39-11eb-97e1-e2df952e9667.gif)
+<br/>
+
 <h3 align="left"><b>Connect 🔌 with me!</b></h3>
 <a href="https://www.linkedin.com/in/thesaravanakumar">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
