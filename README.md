@@ -18,6 +18,8 @@
   <img align="left" width="26px" src="https://github.com/thesaravanakumar/thesaravanakumar/blob/main/github_blue.png" />
 </a>
 
+<br/>
+<br/>
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/59575502/103031541-0a8dd900-4584-11eb-8024-fc105241fc47.gif)
 ![Saravana's github stats](https://github-readme-stats.vercel.app/api?username=thesaravanakumar&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
