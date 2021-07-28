@@ -17,17 +17,18 @@
   </h3>
   <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-Hey! I'm Saravana Kumar, a 21 year old software engineer working out of TamilNadu, India.
+Hey! I'm a 21-year-old software engineer working out of Tamil Nadu, India. Check out some of my Spotify 
+<a href="https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">
+  <img alt="Saro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a> playlists if you want to listen to music while you code.
 
 Nowadays, I’m learning MongoDB and React. I regularly practice Data Structures and Algo questions on LeetCode and always up for quick coding brainstorming sessions!
 
 Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/saravana_me">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/VictorSullivan">codeforces </a></strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
-I have a Computer Engineering background, but ofcourse most of the credit goes to Google and Stack Overflow.
+Although I have a Computer Engineering background, Google and Stack Overflow deserve the most of the credit.
 
-Love hearing music while coding check out some of my spotify playlist
-<a href="https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">
-  <img align="left" alt="Saro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
+
 
 
 <div align="center">
@@ -58,11 +59,7 @@ Love hearing music while coding check out some of my spotify playlist
 </div>
 
 <a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thesaravanakumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
-<p align="center">
-<b>Note:</b> Ignore asp.net, It's because of my game builds in Unity and Unreal Engine.
-</p>
-
+<a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&hide=ASP.NET&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
 
