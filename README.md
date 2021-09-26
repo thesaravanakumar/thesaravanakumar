@@ -22,7 +22,7 @@ Hey! I'm a 21-year-old software engineer working out of Tamil Nadu, India. Check
   <img alt="Saro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> playlists if you ❤ listening to music while you code.
 
-Nowadays, I’m learning MongoDB and React. I regularly practice Data Structures and Algo questions on LeetCode.
+Interests: OpenSource Contribution, Video Games [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, and more! ], Design [ Web Design, Level Design, Character Design, Scripting ].
 
 Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/saravana_me">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/VictorSullivan">codeforces </a></strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
 Although I have a Computer Engineering background, Google and Stack Overflow deserve the most of the credit.
