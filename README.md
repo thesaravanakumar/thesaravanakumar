@@ -28,9 +28,9 @@ me.say_hi()
   <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 Check out some of my <es><strong><a href = "https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">Spotify  </a></strong></es>
-playlists if you ❤ listening to music while you code.
-
-**Interests:**
+playlists if you ❤ listening to music while you code. </br>
+If you want to know what I'm working on, check out my [gist](https://gist.github.com/thesaravanakumar).
+#### Interests:
 - **O**pen**S**ource Contribution
 - **Gaming** [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, ... ]
 - **Design** [ Web Design, Level Design, Character Design, Scripting ].
