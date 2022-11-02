@@ -29,7 +29,7 @@ me.say_hi()
 
 Check out some of my <es><strong><a href = "https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">Spotify  </a></strong></es>
 playlists if you ❤ listening to music while you code. </br>
-If you want to know what I'm working on, check out my [gist](https://gist.github.com/thesaravanakumar).
+If you want to know what I'm working on, check out my <es><strong><a href = "https://gist.github.com/thesaravanakumar">gist.</a></strong></es>
 #### Interests:
 - **O**pen**S**ource Contribution
 - **Gaming** [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, ... ]
