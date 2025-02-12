@@ -28,9 +28,9 @@ me.say_hi()
 
 Check out some of my <es><strong><a href = "https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">Spotify  </a></strong></es>
 playlists if you ❤ listening to music while you code. </br>
-If you want to know what I'm working on, check out my <es><strong><a href = "https://gist.github.com/thesaravanakumar">gist.</a></strong></es>
+If you want to know what I'm working on, check out my <es><strong><a href = "https://www.saravanakumar.co/articles">articles.</a></strong></es>
 
-Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/saravana_me">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/VictorSullivan">codeforces </a></strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
+Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/saravana_me">codechef </a></strong></es> </strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
 Although I have a Computer Engineering background, Google and Stack Overflow deserve the most of the credit.
 
 #### Interests: 
